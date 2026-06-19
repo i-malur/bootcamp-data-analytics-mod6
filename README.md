@@ -33,7 +33,7 @@
 * Consultas complexas, com subquery relacionada ou não relacionada;
 * CTEs (Common Table Expression);
 * Window Functions (com janelas [PARTITION BY] e sem janelas);
-* ROW_NUMBER, RANK e DENSE_RANK();
+* ROW_NUMBER(), RANK() e DENSE_RANK();
 * PARTITION BY e ORDER BY;
 * Funções de navegação [LAG(), LEAD(), FIRTS_VALUE(), LAST_VALUE()];
 * ROWS BETWEEN [UNDBOUNDED PRECEDING AND UNBOUNDED FOLLOWING];
@@ -42,6 +42,16 @@
 * Views e Tabelas Temporárias
 * Análise churn
 * índices SQL e planos de execução [EXPLAIN e QUERY PLAIN]
+
+### Comandos do SQL
+* PARTITION BY e ORDER BY (ASC/DESC)
+* ROW_NUMBER()
+* RANK() e DENSE_RANK()
+* LAG(), LEAD(), FIRTS_VALUE(), LAST_VALUE()
+* ROWS BETWEEN
+* DATE(), JULIANDAY(), STRFTIME()
+* CONCAT (||), SUBSTR(), LENGHT(), UPPER(), LOWE(), REPLACE(), TRIM(), LTRIM(), RTRIM(), CAST()
+* EXPLAIN E QUERY PLAIN
 
 
 ### Tecnologias usadas

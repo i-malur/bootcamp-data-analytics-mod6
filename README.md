@@ -57,6 +57,7 @@
 ### Tecnologias usadas
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Desafio Banco de dados
 [Arquivo com código de desafio](https://github.com/i-malur/bootcamp-data-analytics-mo6/blob/324d27cff60728b6214d5c3dff53564f0cbea532/desafio-bd.sql)

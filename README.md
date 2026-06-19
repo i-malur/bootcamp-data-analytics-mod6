@@ -60,7 +60,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 # Desafio Banco de dados - parte I
-[Arquivo com código de desafio]([https://github.com/i-malur/bootcamp-data-analytics-mo6/blob/324d27cff60728b6214d5c3dff53564f0cbea532/desafio-bd.sql](https://github.com/i-malur/bootcamp-data-analytics-mod6/blob/main/mod6-I/MOD6_I_desafio_bd.sql))
+[Arquivo com código de desafio](https://github.com/i-malur/bootcamp-data-analytics-mod6/blob/main/mod6-I/MOD6_I_desafio_bd.sql)
 
 # Desenvolvido por:
 
